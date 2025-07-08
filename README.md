@@ -149,7 +149,7 @@ Each project should include:
 
 ## 📞 Contact
 
-- **Team Lead**: [Email](mailto:teamlead@example.com)
+- **Team Lead**: [Email](yoni2153@gmail.com)
 - **Slack Channel**: #team-projects
 - **Issues**: Use GitHub Issues for bug reports and feature requests
 
@@ -159,6 +159,6 @@ Each project may have its own license. Please check the individual project direc
 
 ---
 
-*Last updated: [Date]*
+*Last updated: [8.7.2025]*
 
 *Happy coding! 🚀*
