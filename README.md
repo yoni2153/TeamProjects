@@ -149,7 +149,7 @@ Each project should include:
 
 ## 📞 Contact
 
-- **Team Lead**: [Email](yoni2153@gmail.com)
+- **Team Lead**: yoni2153@gmail.com
 - **Slack Channel**: #team-projects
 - **Issues**: Use GitHub Issues for bug reports and feature requests
 
